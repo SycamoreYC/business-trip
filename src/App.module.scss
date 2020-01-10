@@ -1,0 +1,20 @@
+.app {
+  width: 40%;
+  margin: 20px auto;
+
+  .title {
+    text-align: center;
+  }
+
+  .bugdetForm {
+    margin-bottom: 20px;
+    border-bottom: 1px solid grey;
+  }
+
+  article {
+    margin-bottom: 20px;
+    input {
+      margin-bottom: 10px;
+    }
+  }
+}
